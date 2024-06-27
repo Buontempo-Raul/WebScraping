@@ -6,8 +6,9 @@ Acest repository pune la dispozitie:
   - codul pentru aplicatia cu interfata grafica pentru a putea cauta personal
   - o varianta prescurtata a aplicatiei care doar verifica daca au aparut noi anunturi de albume de la ultima verificare, cod ce este folosit cu Task Scheduler pentru a putea fi executat in fiecare zi la o anumita ora astfel fiind update-ata si lista noilor albume.
   - un txt unde sunt salvatii artisti interesati
-  - un txt unde este salvata ultima lista cu albumele anuntate pentru a fi comparata cu lista la cautarea urmatoare\
+  - un txt unde este salvata ultima lista cu albumele anuntate pentru a fi comparata cu lista la cautarea urmatoare
   - o imagine folosita pentru notificarea primita pe windows in momentul in care se gasesc anunturi noi de albume
+  - un fisier .py cu informatiile de autentificare pentru folosirea functionalitatiilor prezentate de Twilio
 
 Functionalitate:
   - acest cod va putea trimite un sms unui numar de telefon prin folosirea serviciilor oferite de Twilio (free trial)
